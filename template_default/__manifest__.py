@@ -24,7 +24,7 @@
     'category': 'Tools',
     'summary': "Test for v13 CE",
     'author': "jeo Software",
-    'website': 'https://github.com/sebacorreacalamuchita/cl-template2',
+    'website': 'http://github.com/jobiols/cl-test',
     'license': 'AGPL-3',
     'depends': [
         'standard_depends_ce'
