@@ -19,7 +19,7 @@
 ##############################################################################
 
 {
-    'name': 'template',
+    'name': 'template2',
     'version': '13.0.1.0.0',
     'category': 'Tools',
     'summary': "Test for v13 CE",
