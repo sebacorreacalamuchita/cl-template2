@@ -19,7 +19,7 @@ services:
       # - --api.insecure # Don't do that in production
       # - --api.debug # Don't do that in production
 
-      - --certificatesresolvers.le.acme.email=jorge.obiols@gmail.com
+      - --certificatesresolvers.le.acme.email=quintojardinero@gmail.com
       - --certificatesresolvers.le.acme.storage=/opt/traefik/acme.json
       - --certificatesresolvers.le.acme.httpChallenge=true
       - --certificatesresolvers.le.acme.httpChallenge.entryPoint=web
