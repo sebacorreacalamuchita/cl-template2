@@ -67,9 +67,7 @@
     'port': '8069',
 
     'git-repos': [
-        'git@github.com:jobiols/cl-test.git',
-        'git@github.com:jobiols/odoo-jeo-ce.git',
-        'git@github.com:jobiols/odoo-private-addons.git',
+        'https://github.com/sebacorreacalamuchita/cl-template2'
 
         # OCA
         'https://github.com/OCA/server-tools oca-server-tools',
