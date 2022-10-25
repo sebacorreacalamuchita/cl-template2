@@ -179,6 +179,10 @@
         'https://github.com/ingadhoc/manufacture ingadhoc-manufacture',
         'https://github.com/ingadhoc/multi-store ingadhoc-multi-store',
         'https://github.com/ingadhoc/hr ingadhoc-hr',
+<<<<<<< HEAD
+=======
+        #'https://github.com/ingadhoc/odoo-legal ingadhoc-odoo-legal',
+>>>>>>> 921ccb6e7d1848583f193355b26f4de6e66ca595
         'https://github.com/ingadhoc/account-analytic ingadhoc-account-analytic',
         'https://github.com/ingadhoc/project ingadhoc-project',
 
