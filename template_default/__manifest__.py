@@ -64,8 +64,8 @@
                 'limit_memory_hard = 2684354560',
     ],
 
-    'port': '8069',
-    'lonpolling_port':'8070',
+    'port': '8071',
+    'lonpolling_port':'8072'
 
     'git-repos': [
         'https://github.com/sebacorreacalamuchita/cl-template2',
