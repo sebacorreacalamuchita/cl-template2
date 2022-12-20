@@ -65,6 +65,7 @@
     ],
 
     'port': '8069',
+    'lonpolling_port':'8070'
 
     'git-repos': [
         'https://github.com/sebacorreacalamuchita/cl-template2',
